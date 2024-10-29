@@ -1,0 +1,746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Antibots\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-09 12:29+0100\n"
+"PO-Revision-Date: 2024-09-09 12:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: antibot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dashboard/_dashboard.php:12 dashboard/dashboard.php:12
+msgid "Anti Bots Plugin Status"
+msgstr "Status do plugin Anti Bots"
+
+#: dashboard/_dashboard.php:20 dashboard/dashboard.php:20
+msgid "Protection Enabled"
+msgstr "Proteção habilitada"
+
+#: dashboard/_dashboard.php:23 dashboard/dashboard.php:23
+msgid "Protection Disabled"
+msgstr "Proteção Desativada"
+
+#: dashboard/_dashboard.php:24 dashboard/dashboard.php:24
+msgid "Go to Dashboard => Anti Bots => "
+msgstr "Vá para Painel => Anti Bots =>"
+
+#: dashboard/_dashboard.php:26 dashboard/dashboard.php:26
+msgid "General Settings (tab)"
+msgstr "Configurações gerais (guia)"
+
+#: dashboard/_dashboard.php:28 dashboard/dashboard.php:28
+msgid "to enable it."
+msgstr "para habilitá-lo."
+
+#: dashboard/_dashboard.php:41 dashboard/dashboard.php:44
+msgid "Start Up Guide and Settings"
+msgstr "Guia de inicialização e configurações"
+
+#: dashboard/_dashboard.php:45 dashboard/dashboard.php:48
+msgid "Just click Settings in the left menu (Anti Bots)."
+msgstr "Basta clicar em Configurações no menu à esquerda (Anti Bots)."
+
+#: dashboard/_dashboard.php:47 dashboard/dashboard.php:50
+msgid "Dashboard => Anti Bots => Settings"
+msgstr "Painel => Anti Bots => Configurações"
+
+#: dashboard/_dashboard.php:52 dashboard/_dashboard.php:73
+#: dashboard/dashboard.php:54 dashboard/dashboard.php:72
+msgid "Go"
+msgstr "Ir"
+
+#: dashboard/_dashboard.php:61 dashboard/dashboard.php:60
+msgid "OnLine Guide, Support, Faq..."
+msgstr "Guia on-line, suporte, perguntas frequentes..."
+
+#: dashboard/_dashboard.php:65 dashboard/dashboard.php:64
+msgid ""
+"You will find our complete and updated OnLine guide, faqs page, link to "
+"support and more in our site."
+msgstr ""
+"Você encontrará nosso guia on-line completo e atualizado, página de "
+"perguntas frequentes, link para suporte e muito mais em nosso site."
+
+#: dashboard/_dashboard.php:79 dashboard/dashboard.php:78
+msgid "Troubleshooting Guide"
+msgstr "Guia de solução de problemas"
+
+#: dashboard/_dashboard.php:81 dashboard/dashboard.php:80
+msgid ""
+"Bots showing in your statistics tool, Use old WP version, Low memory, some "
+"plugin with Javascript error are some possible problems."
+msgstr ""
+"Bots aparecendo na sua ferramenta de estatísticas, uso de versão antiga do "
+"WP, pouca memória, alguns plugins com erro de Javascript são alguns "
+"problemas possíveis."
+
+#: dashboard/_dashboard.php:83 dashboard/dashboard.php:82 guide/guide.php:114
+msgid "Troubleshooting Page"
+msgstr "Página de solução de problemas"
+
+#: dashboard/_dashboard.php:90 dashboard/dashboard.php:89
+msgid "Top Bots Blocked Last 15 Days"
+msgstr "Principais bots bloqueados nos últimos 15 dias"
+
+#: dashboard/_dashboard.php:94 dashboard/dashboard.php:93
+msgid "Top Bots Blocked Last 24 Hours"
+msgstr "Principais bots bloqueados nas últimas 24 horas"
+
+#: dashboard/_dashboard.php:98 dashboard/dashboard.php:97
+msgid "Bots / Human Visits"
+msgstr "Bots / Visitas Humanas"
+
+#: dashboard/_dashboard.php:108 dashboard/dashboard.php:107
+msgid "Total Bots Blocked Last 15 Days"
+msgstr "Total de bots bloqueados nos últimos 15 dias"
+
+#: dashboard/_dashboard.php:111 dashboard/dashboard.php:110
+msgid "Days"
+msgstr "Dias"
+
+#: dashboard/_dashboard.php:114 dashboard/dashboard.php:113
+msgid "Total Bots Blocked Last 12 Hours"
+msgstr "Total de bots bloqueados nas últimas 12 horas"
+
+#: dashboard/_dashboard.php:117 dashboard/dashboard.php:118
+msgid "Hours"
+msgstr "Horas"
+
+#: dashboard/_dashboard.php:122 dashboard/dashboard.php:130
+msgid "With our plugin, many blocked bots will give up of attack your site !"
+msgstr ""
+"Com nosso plugin, muitos bots bloqueados desistirão de atacar seu site!"
+
+#: dashboard/botsgraph.php:12 dashboard/botsgraph_24.php:9
+msgid "Please, try again later."
+msgstr "Por favor, tente novamente mais tarde."
+
+#: dashboard/main.php:59
+msgid "Help and Support Page"
+msgstr "Página de Ajuda e Suporte"
+
+#: dashboard/topips_24.php:18
+msgid "No bots blocked by IP. Please, try again later"
+msgstr "Nenhum bot bloqueado por IP. Por favor, tente novamente mais tarde"
+
+#: functions/functions.php:194
+msgid ""
+"Read the StartUp guide at Anti Bots Settings page. (WP Dashboard => Anti "
+"Bots = Settings)"
+msgstr ""
+"Leia o guia de inicialização na página de configurações do Anti Bots. (WP "
+"Dashboard => Anti Bots = Configurações)"
+
+#: functions/functions.php:201
+msgid ""
+"Go to Dashboard Page for more information, Online Guide and Support. (WP "
+"Dashboard => Anti Bots = Dashboard)"
+msgstr ""
+"Acesse a página do painel para obter mais informações, guia on-line e "
+"suporte. (Painel WP => Anti Bots = Painel)"
+
+#: functions/functions.php:208
+msgid ""
+"Go to Visitors Log Page for details about the visits. (WP Dashboard => Anti "
+"Bots = Visitors Log)"
+msgstr ""
+"Acesse a página de registro de visitantes para obter detalhes sobre as "
+"visitas. (WP Dashboard => Anti Bots = Registro de visitantes)"
+
+#: functions/functions.php:213
+msgid "Visit the"
+msgstr "Visite o"
+
+#: functions/functions.php:216
+msgid "plugin site"
+msgstr "site de plugins"
+
+#: functions/functions.php:219
+msgid "for more details, Support and online guide."
+msgstr "para mais detalhes, Suporte e guia online."
+
+#: functions/functions.php:261
+msgid "Overview"
+msgstr "Visão geral"
+
+#: functions/functions.php:266
+msgid "Visitors Log"
+msgstr "Registro de visitantes"
+
+#: functions/functions.php:308
+msgid "Detected Bot on"
+msgstr "Bot detectado em"
+
+#: functions/functions.php:309
+msgid "Bot was detected and blocked."
+msgstr "O bot foi detectado e bloqueado."
+
+#: functions/functions.php:312
+msgid "Date"
+msgstr "Data"
+
+#: functions/functions.php:313
+msgid "User Agent"
+msgstr "Agente do usuário"
+
+#: functions/functions.php:314
+msgid "Robot IP Address"
+msgstr "Endereço IP do robô"
+
+#: functions/functions.php:316
+msgid "eMail sent by Anti Bots Plugin."
+msgstr "E-mail enviado pelo plugin Anti Bots."
+
+#: functions/functions.php:318
+msgid "You can antibots emails at the Notifications Settings Tab."
+msgstr ""
+"Você pode bloquear e-mails de bots na guia Configurações de notificações."
+
+#: functions/functions.php:321
+msgid "Dashboard => Anti Bots => Settings."
+msgstr "Painel => Anti Bots => Configurações."
+
+#: functions/functions.php:413
+msgid "Anti Bots Plugin was activated!"
+msgstr "O plugin Anti Bots foi ativado!"
+
+#: functions/functions.php:417
+msgid "For details and help, take a look at Anti Bots at your left menu"
+msgstr "Para detalhes e ajuda, dê uma olhada em Anti Bots no menu à esquerda"
+
+#: functions/functions.php:423
+msgid "or click here"
+msgstr "ou clique aqui"
+
+#: guide/guide.php:14
+msgid "Open the General Settings Tab and click over Test Mode."
+msgstr "Abra a aba Configurações Gerais e clique em Modo de Teste."
+
+#: guide/guide.php:16
+msgid "Keep your site in Test Mode a couple of days."
+msgstr "Mantenha seu site no Modo de Teste por alguns dias."
+
+#: guide/guide.php:18
+msgid ""
+"If you mark Yes, the plugin begin to block the bots right away. Please, read "
+"all this page before click Yes."
+msgstr ""
+"Se você marcar Sim, o plugin começará a bloquear os bots imediatamente. Por "
+"favor, leia toda esta página antes de clicar em Sim."
+
+#: guide/guide.php:23
+msgid "You can go to WhiteList tab and manage  String and IP tables. "
+msgstr "Você pode ir para a aba WhiteList e gerenciar tabelas de String e IP."
+
+#: guide/guide.php:31
+msgid ""
+"At Email and Notifications tab, you can customize your contact email or left "
+"blank to use your WordPress eMail."
+msgstr ""
+"Na aba E-mail e Notificações, você pode personalizar seu e-mail de contato "
+"ou deixá-lo em branco para usar seu e-mail do WordPress."
+
+#: guide/guide.php:34
+msgid ""
+"You can record your option by receive or not email alerts about bots "
+"attempts."
+msgstr ""
+"Você pode registrar sua opção recebendo ou não alertas por e-mail sobre "
+"tentativas de bots."
+
+#: guide/guide.php:37
+msgid "Remember to click Save Changes before to left each tab."
+msgstr "Lembre-se de clicar em Salvar alterações antes de sair de cada aba."
+
+#: guide/guide.php:44
+msgid "Please, read this:"
+msgstr "Por favor, leia isto:"
+
+#: guide/guide.php:47
+msgid "Because not all bots are bad, you need manage the Whitelist Tables."
+msgstr ""
+"Como nem todos os bots são ruins, você precisa gerenciar as Tabelas da Lista "
+"de Permissões."
+
+#: guide/guide.php:49
+msgid ""
+"Open the Visitors Table  (under Anti Bots Menu) and take a look at Visitors "
+"List."
+msgstr ""
+"Abra a Tabela de Visitantes (no Menu Anti Bots) e dê uma olhada na Lista de "
+"Visitantes."
+
+#: guide/guide.php:50
+msgid "You can see bots blocked (Response Code = 403 - Forbidden -)."
+msgstr ""
+"Você pode ver os bots bloqueados (Código de resposta = 403 - Proibido -)."
+
+#: guide/guide.php:51
+msgid ""
+"Click over the table title to Order. You can also type 403 (or other, as, "
+"for example, 404 - not found -) in the Search Bar."
+msgstr ""
+"Clique sobre o título da tabela para Ordenar. Você também pode digitar 403 "
+"(ou outro, como, por exemplo, 404 - não encontrado -) na Barra de Pesquisa."
+
+#: guide/guide.php:52
+msgid ""
+"Response Code 404 (not found) they are not caused by our plugin. The plugin "
+"just record that happens to alert you."
+msgstr ""
+"Código de resposta 404 (não encontrado) não são causados pelo nosso plugin. "
+"O plugin apenas registra o que acontece para alertá-lo."
+
+#: guide/guide.php:54
+msgid ""
+"When the plugin is running in test mode, you can see Response 403 (blocked) "
+"in table but the bots are not really blocked."
+msgstr ""
+"Quando o plugin está sendo executado no modo de teste, você pode ver a "
+"Resposta 403 (bloqueado) na tabela, mas os bots não estão realmente "
+"bloqueados."
+
+#: guide/guide.php:55
+msgid ""
+"It is only a simulation to help you to create your particular whitelist."
+msgstr ""
+"É apenas uma simulação para ajudar você a criar sua lista de permissões "
+"específica."
+
+#: guide/guide.php:60
+msgid "Check Visitor's table frequently, especially in the first days."
+msgstr ""
+"Verifique a mesa de visitantes com frequência, especialmente nos primeiros "
+"dias."
+
+#: guide/guide.php:61
+msgid ""
+"Maybe you will find, for example, some website checker/monitor or payment "
+"service\n"
+" (Autorize.net, Amazon or other)."
+msgstr ""
+"Talvez você encontre, por exemplo, algum verificador/monitor de site ou "
+"serviço de pagamento\n"
+"(Autorize.net, Amazon ou outro)."
+
+#: guide/guide.php:64
+msgid ""
+"If you use RSS FEED services, probably they have their bot to read your "
+"feeds."
+msgstr ""
+"Se você usa serviços de RSS FEED, provavelmente eles têm um bot para ler "
+"seus feeds."
+
+#: guide/guide.php:65
+msgid "Remember to Whitelist their bot."
+msgstr "Lembre-se de colocar o bot deles na lista de permissões."
+
+#: guide/guide.php:66
+msgid ""
+"Same thing if you create some smartphone APP. Talk with them to know more "
+"about their bots (as name, for example)."
+msgstr ""
+"A mesma coisa se você criar algum APP para smartphone. Fale com eles para "
+"saber mais sobre seus bots (como nome, por exemplo)."
+
+#: guide/guide.php:68
+msgid ""
+"Some search engine or social media, like Telegram, Whatsapp, Qwant, Mail.ru, "
+"LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, FacebookBot, "
+"twitterbot, vkShare\n"
+"for example, sometimes send bots with empty user agent (or another bad "
+"practice) and our system catch them."
+msgstr ""
+"Alguns mecanismos de busca ou mídias sociais, como Telegram, Whatsapp, "
+"Qwant, Mail.ru, LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, "
+"FacebookBot, twitterbot, vkShare\n"
+"por exemplo, às vezes enviam bots com user agent vazio (ou outra prática "
+"ruim) e nosso sistema os captura."
+
+#: guide/guide.php:71
+msgid ""
+"If you need more info about each bot or IP, visit the site www.StopBadBots."
+"com (page Bots Table and Boats Table by IP)"
+msgstr ""
+"Se precisar de mais informações sobre cada bot ou IP, visite o site www."
+"StopBadBots.com (página Tabela de Bots e Tabela de Barcos por IP)"
+
+#: guide/guide.php:74
+msgid ""
+"Antibots it is a powerfull tool. Then, like all powerfull tools it is "
+"necessary to use carefully."
+msgstr ""
+"Antibots é uma ferramenta poderosa. Então, como todas as ferramentas "
+"poderosas, é necessário usar com cuidado."
+
+#: guide/guide.php:76
+msgid "It is up to you determine what bot is beneficial or detrimental."
+msgstr "Cabe a você determinar qual bot é benéfico ou prejudicial."
+
+#: guide/guide.php:78
+msgid ""
+"Unfortunately the amount of bots is growing vertiginously. They can overload "
+"your site and you need invest time to manage this."
+msgstr ""
+"Infelizmente a quantidade de bots está crescendo vertiginosamente. Eles "
+"podem sobrecarregar seu site e você precisa investir tempo para gerenciar "
+"isso."
+
+#: guide/guide.php:82
+msgid "You don't need create any robots.txt or htaccess file. "
+msgstr "Você não precisa criar nenhum arquivo robots.txt ou htaccess."
+
+#: guide/guide.php:85
+msgid "The Plugin doesn't block main Google, Yahoo and Bing (Microsoft)."
+msgstr ""
+"O plugin não bloqueia os principais sites do Google, Yahoo e Bing "
+"(Microsoft)."
+
+#: guide/guide.php:107
+msgid ""
+"Visit the plugin site for more detail, online guide, FAQ and Troubleshooting "
+"page and bot's and IP's details."
+msgstr ""
+"Visite o site do plugin para mais detalhes, guia on-line, página de "
+"perguntas frequentes e solução de problemas, além de detalhes sobre bots e "
+"IPs."
+
+#: guide/guide.php:110
+msgid "OnLine Guide"
+msgstr "Guia on-line"
+
+#: guide/guide.php:112
+msgid "Support Page"
+msgstr "Página de suporte"
+
+#: includes/checkup/bill_class_diagnose.php:287
+#: includes/checkup/bill_class_diagnose.php:308
+msgid "Our plugin"
+msgstr "Nosso plugin"
+
+#: includes/checkup/bill_class_diagnose.php:289
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"não pode funcionar corretamente porque seu Limite de Memória do WordPress é "
+"muito baixo. Seu site terá problemas sérios, mesmo se você desativar nosso "
+"plugin."
+
+#: includes/checkup/bill_class_diagnose.php:295
+#: includes/checkup/bill_class_diagnose.php:316
+msgid "Learn more"
+msgstr "Saber mais"
+
+#: includes/checkup/bill_class_diagnose.php:307
+msgid "Your site has errors."
+msgstr "Seu site tem erros."
+
+#: includes/checkup/bill_class_diagnose.php:310
+msgid ""
+"can't function as intended. Errors, including JavaScript errors, may lead to "
+"visual problems or disrupt functionality, from minor glitches to critical "
+"site failures. Promptly address these issues before continuing."
+msgstr ""
+"não pode funcionar como pretendido. Erros, incluindo erros de JavaScript, "
+"podem levar a problemas visuais ou interromper a funcionalidade, desde "
+"pequenas falhas até falhas críticas do site. Resolva esses problemas "
+"imediatamente antes de continuar."
+
+#: includes/checkup/bill_class_diagnose.php:336
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Questões Críticas"
+
+#: includes/checkup/bill_class_diagnose.php:371
+msgid ""
+"Displaying the latest recurring errors from your error log file and "
+"eventually alert about low WordPress memory limit is a courtesy of plugin"
+msgstr ""
+"Exibir os últimos erros recorrentes do seu arquivo de log de erros e, "
+"eventualmente, alertar sobre o limite baixo de memória do WordPress é uma "
+"cortesia do plugin"
+
+#: includes/checkup/bill_class_diagnose.php:373
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; \n"
+"                it simply means you will no longer be notified here that "
+"they are happening, but they can still harm your site."
+msgstr ""
+"Desabilitar nosso plugin não impede que os erros ocorram; \n"
+"significa apenas que você não será mais notificado aqui sobre eles, mas eles "
+"ainda podem prejudicar seu site."
+
+#: includes/checkup/bill_class_diagnose.php:381
+msgid "Potential Problems"
+msgstr "Problemas potenciais"
+
+#: includes/checkup/bill_class_diagnose.php:389
+msgid "Low WordPress Memory Limit"
+msgstr "Limite de memória baixo do WordPress"
+
+#: includes/checkup/bill_class_diagnose.php:402
+msgid "Your usage now"
+msgstr "Seu uso agora"
+
+#: includes/checkup/bill_class_diagnose.php:410
+msgid "Total Php Server Memory"
+msgstr "Memória total do servidor PHP"
+
+#: includes/checkup/bill_class_diagnose.php:419
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Seu Limite de Memória do WordPress é muito baixo, o que pode levar a "
+"problemas críticos no seu site devido a recursos insuficientes. Resolva esse "
+"problema imediatamente antes de continuar."
+
+#: includes/checkup/bill_class_diagnose.php:425
+#: includes/checkup/bill_class_diagnose.php:445
+msgid "Learn More"
+msgstr "Saber mais"
+
+#: includes/checkup/bill_class_diagnose.php:436
+msgid "Site Errors"
+msgstr "Erros do site"
+
+#: includes/checkup/bill_class_diagnose.php:441
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Seu site apresentou erros nos últimos 2 dias. Esses erros, incluindo "
+"problemas de JavaScript, podem resultar em problemas visuais ou interromper "
+"a funcionalidade, variando de pequenas falhas a falhas críticas do site. "
+"Erros de JavaScript podem encerrar a execução do JavaScript, deixando todos "
+"os comandos subsequentes inoperantes."
+
+#: includes/checkup/bill_class_diagnose.php:511
+msgid "This is a partial list of the errors found."
+msgstr "Esta é uma lista parcial dos erros encontrados."
+
+#: includes/checkup/bill_class_diagnose.php:1015
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Esses são problemas críticos que podem ter um impacto significativo no "
+"desempenho do seu site. Eles podem fazer com que muitos plugins e "
+"funcionalidades não funcionem corretamente e, em alguns casos, tornar seu "
+"site completamente inoperante, dependendo da gravidade. Resolva-os "
+"imediatamente."
+
+#: settings/options/plugin_options_tabbed.php:10
+#: settings/options/plugin_options_tabbed.php:25
+msgid "Block all Bots Less Whitelisted?"
+msgstr "Bloquear todos os bots que não estão na lista de permissões?"
+
+#: settings/options/plugin_options_tabbed.php:12
+msgid "Mark Yes and the plugin will block bots right away."
+msgstr "Marque Sim e o plugin bloqueará os bots imediatamente."
+
+#: settings/options/plugin_options_tabbed.php:13
+msgid "Please, read the StartUp Guide before mark yes."
+msgstr "Por favor, leia o Guia de Inicialização antes de marcar sim."
+
+#: settings/options/plugin_options_tabbed.php:15
+msgid ""
+"Mark Test Mode and the plugin will create a log of visitors and statistics "
+"but doesn't block any bot."
+msgstr ""
+"Marque o Modo de Teste e o plugin criará um registro de visitantes e "
+"estatísticas, mas não bloqueará nenhum bot."
+
+#: settings/options/plugin_options_tabbed.php:17
+msgid "Then click SAVE CHANGES."
+msgstr "Em seguida, clique em SALVAR ALTERAÇÕES."
+
+#: settings/options/plugin_options_tabbed.php:20
+msgid "Instructions"
+msgstr "Instruções"
+
+#: settings/options/plugin_options_tabbed.php:27
+#: settings/options/plugin_options_tabbed.php:65
+#: settings/options/plugin_options_tabbed.php:101
+msgid "yes"
+msgstr "sim"
+
+#: settings/options/plugin_options_tabbed.php:28
+msgid "Test mode"
+msgstr "Modo de teste"
+
+#: settings/options/plugin_options_tabbed.php:35
+msgid "Keep Visitor Record Max"
+msgstr "Manter registro de visitantes máximo"
+
+#: settings/options/plugin_options_tabbed.php:39
+msgid "1 Week"
+msgstr "1 semana"
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "2 Weeks"
+msgstr "2 semanas"
+
+#: settings/options/plugin_options_tabbed.php:41
+msgid "3 Weeks"
+msgstr "3 semanas"
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "4 Weeks"
+msgstr "4 semanas"
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "5 Weeks"
+msgstr "5 semanas"
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "6 Weeks"
+msgstr "6 semanas"
+
+#: settings/options/plugin_options_tabbed.php:45
+msgid "7 Weeks"
+msgstr "7 semanas"
+
+#: settings/options/plugin_options_tabbed.php:46
+msgid "8 Weeks"
+msgstr "8 semanas"
+
+#: settings/options/plugin_options_tabbed.php:50
+msgid "You can create 2 whitelist in this page: String and IP."
+msgstr "Você pode criar 2 listas de permissões nesta página: String e IP."
+
+#: settings/options/plugin_options_tabbed.php:52
+msgid "Just add one string to unblock all User Agent that contain that string."
+msgstr ""
+"Basta adicionar uma string para desbloquear todos os User Agents que contêm "
+"essa string."
+
+#: settings/options/plugin_options_tabbed.php:54
+msgid "For IP withelist, just add the IP to unblock it."
+msgstr "Para IP withelist, basta adicionar o IP para desbloqueá-lo."
+
+#: settings/options/plugin_options_tabbed.php:56
+msgid "Add only one for each line."
+msgstr "Adicione apenas um para cada linha."
+
+#: settings/options/plugin_options_tabbed.php:58
+msgid "Instructions about User Agent String and IP Whitelist."
+msgstr ""
+"Instruções sobre a sequência de caracteres do agente do usuário e a lista de "
+"permissões de IP."
+
+#: settings/options/plugin_options_tabbed.php:63
+msgid "Enable Both Withelist?"
+msgstr "Habilitar ambos Withelist?"
+
+#: settings/options/plugin_options_tabbed.php:66
+#: settings/options/plugin_options_tabbed.php:102
+msgid "no"
+msgstr "não"
+
+#: settings/options/plugin_options_tabbed.php:72
+msgid "String whitelist (no case sensitive)"
+msgstr ""
+"Lista de permissões de strings (sem distinção entre maiúsculas e minúsculas)"
+
+#: settings/options/plugin_options_tabbed.php:77
+msgid "IP whitelist."
+msgstr "Lista de permissões de IP."
+
+#: settings/options/plugin_options_tabbed.php:77
+msgid "Your Current IP:"
+msgstr "Seu IP atual:"
+
+#: settings/options/plugin_options_tabbed.php:82
+msgid "Fill out the email address to send messages."
+msgstr "Preencha o endereço de e-mail para enviar mensagens."
+
+#: settings/options/plugin_options_tabbed.php:84
+msgid ""
+"Left Blank to use your default WordPress email. Then, click save changes."
+msgstr ""
+"Deixe em branco para usar seu e-mail padrão do WordPress. Depois, clique em "
+"salvar alterações."
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Do you want receive email alerts for each bot attempt?"
+msgstr "Você quer receber alertas por e-mail para cada tentativa de bot?"
+
+#: settings/options/plugin_options_tabbed.php:93
+msgid "If you under brute force attack, you will receive a lot of emails."
+msgstr "Se você sofrer um ataque de força bruta, receberá muitos e-mails."
+
+#: settings/options/plugin_options_tabbed.php:95
+msgid ""
+"You can see the bots attacks info at Visitors Log Table. (column Num "
+"Blocked)."
+msgstr ""
+"Você pode ver as informações sobre ataques de bots na Tabela de Registro de "
+"Visitantes. (coluna Número Bloqueado)."
+
+#: settings/options/plugin_options_tabbed.php:99
+msgid "Alert me by email each Bots Attempts"
+msgstr "Avise-me por e-mail sobre cada tentativa de bots"
+
+#: settings/options/plugin_options_tabbed.php:106
+msgid "Email and Notifications"
+msgstr "Email e notificações"
+
+#: table/visitors_render.php:18
+msgid "Empty Table. Please, try again later."
+msgstr "Tabela vazia. Por favor, tente novamente mais tarde."
+
+#: table/visitors_render.php:36
+msgid "Visits Log"
+msgstr "Registro de Visitas"
+
+#. Plugin Name of the plugin/theme
+msgid "Antibots"
+msgstr "Antibots"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://antibotsplugin.com"
+msgstr "http://antibotsplugin.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Anti Bots, SPAM bots and spiders. No DNS or Cloud Traffic Redirection. No "
+"Slow Down Your Site!"
+msgstr ""
+"Anti Bots, bots de SPAM e spiders. Sem DNS ou redirecionamento de tráfego na "
+"nuvem. Sem deixar seu site lento!"
+
+#. Author of the plugin/theme
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#~ msgid "Go to Dashboard => "
+#~ msgstr "Vá para Painel => "
+
+#~ msgid "Go to Dashboard => Anti Bots => Settings => General Settings (tab)"
+#~ msgstr ""
+#~ "Vá para Painel => Anti Bots => Configurações => Configurações gerais "
+#~ "(guia)"
